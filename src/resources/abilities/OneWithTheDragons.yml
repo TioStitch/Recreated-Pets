@@ -1,0 +1,23 @@
+#Example: You can use 0.1 to 10 in level 100.
+bonuses:
+  epic:
+    base:
+      X: 0.0
+      Y: 0.0
+    per_level:
+      X: 0.5
+      Y: 0.3
+  legendary:
+    base:
+      X: 0.0
+      Y: 0.0
+    per_level:
+      X: 0.5
+      Y: 0.3
+
+ability-description:
+- "§6One With The Dragons"
+- "§7Buffs the Aspect of the"
+- "§7Dragons sword by §a%X §c❁ Damage"
+- "§7and §a%Y §c❁ Strength§7."
+- " "

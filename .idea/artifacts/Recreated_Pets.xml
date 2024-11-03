@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Recreated-Pets">
+    <output-path>$PROJECT_DIR$/Minecraft/Server - Test/plugins</output-path>
+    <root id="archive" name="Recreated-Pets.jar">
+      <element id="module-output" name="Recreated-Pets" />
+    </root>
+  </artifact>
+</component>

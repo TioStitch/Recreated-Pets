@@ -1,0 +1,23 @@
+name: "EnderDragon"
+texture: "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYjEyMzRjMzhlMWRjY2QzNzZkZDBmMjhiMDAwMmNkYzQ2NDlkNTlhZDIwYTA4NmIyMjg1ZjYzZWQxN2Y1Y2ZmMyJ9fX0="
+skill-type: "COMBAT"
+
+abilities:
+  epic:
+    - EndStrike
+    - OneWithTheDragons
+  legendary:
+    - EndStrike
+    - OneWithTheDragons
+    - Superior
+
+upgrade-stats:
+  epic:
+    - STRENGTH:0.05
+    - CRIT_DAMAGE:0.05
+    - CRIT_CHANCE:0.01
+  legendary:
+    - STRENGTH:0.05
+    - CRIT_DAMAGE:0.05
+    - CRIT_CHANCE:0.01
+

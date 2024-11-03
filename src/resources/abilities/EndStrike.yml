@@ -1,0 +1,22 @@
+#Example: You can use 0.1 to 10 in level 100.
+bonuses:
+  epic:
+    base:
+      X: 0.0
+      Y: 0.0
+    per_level:
+      X: 2.0
+      Y: 0.0
+  legendary:
+    base:
+      X: 0.0
+      Y: 0.0
+    per_level:
+      X: 2.0
+      Y: 0.0
+
+ability-description:
+- "§6End Strike"
+- "§7Deal §a%X% §7more damage to"
+- "§7end mobs."
+- " "

@@ -1,0 +1,25 @@
+#Example: You can use 0.1 to 10 in level 100.
+X-bonus:
+- 0.01
+- 0.01
+- 0.01
+- 0.01
+- 0.01
+- 0.01
+- 0.01
+
+Y-bonus:
+- 0.02
+- 0.02
+- 0.02
+- 0.02
+- 0.02
+- 0.02
+- 0.02
+
+ability-description:
+- "§6Gift of the Ammonite"
+- "§7Each Mining and Fishing level grants"
+- "§b%X ☂ Fishing Speed, §f%Y ✦ Speed §7and"
+- "§a%Y ❈ §aDefense§7."
+- " "

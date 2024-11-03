@@ -1,0 +1,12 @@
+name: "Ammonite"
+texture: "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYTA3NGE3YmQ5NzZmZTZhYmExNjI0MTYxNzkzYmU1NDdkNTRjODM1Y2Y0MjIyNDNhODUxYmEwOWQxZTY1MDU1MyJ9fX0="
+skill-type: "FISHING"
+
+abilities:
+- HeartOfTheSea
+- ExpertCaveFisher
+- GiftOfTheAmmonite
+
+upgrade-stats:
+- SEA_CREATURE_CHANCE:0.05
+

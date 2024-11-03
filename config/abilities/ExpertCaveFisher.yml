@@ -1,0 +1,25 @@
+#Example: You can use 0.1 to 10 in level 100.
+X-bonus:
+- 1.0
+- 1.0
+- 1.0
+- 1.0
+- 1.0
+- 1.0
+- 1.0
+
+Y-bonus:
+- 1.0
+- 1.0
+- 1.0
+- 1.0
+- 1.0
+- 1.0
+- 1.0
+
+ability-description:
+- "§6Expert Cave Fisher"
+- "§7The fishing speed reduction from"
+- "§7being underground is reduced by"
+- "§a%X§7."
+- " "

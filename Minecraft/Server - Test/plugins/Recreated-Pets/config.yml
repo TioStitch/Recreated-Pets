@@ -1,0 +1,9 @@
+use-mysql: false #false --> SQLite
+
+#use-mysql: true {
+mysql-configuration:
+  port: 3306
+  database: yourDatabase
+  hostname: yourHostname
+  password: yourPassword
+#}

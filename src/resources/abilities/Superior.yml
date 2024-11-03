@@ -1,0 +1,21 @@
+#Example: You can use 0.1 to 10 in level 100.
+bonuses:
+  epic:
+    base:
+      X: 0.0
+      Y: 0.0
+    per_level:
+      X: 0.1
+      Y: 0.0
+  legendary:
+    base:
+      X: 0.0
+      Y: 0.0
+    per_level:
+      X: 0.1
+      Y: 0.0
+
+ability-description:
+- "§6Superior"
+- "§7Increases most stats by §a%X%"
+- " "

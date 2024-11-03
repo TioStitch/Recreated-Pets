@@ -1,0 +1,7 @@
+name: Recreated-Pets
+version: 1.0
+main: org.tiostitch.recreated.pets.Main
+description: Pet System like a famous server.
+commands:
+  pets:
+  petsdebug:

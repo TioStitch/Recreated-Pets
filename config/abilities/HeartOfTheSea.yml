@@ -1,0 +1,25 @@
+#Example: You can use 0.1 to 10 in level 100.
+X-bonus:
+- 0.01
+- 0.01
+- 0.01
+- 0.01
+- 0.01
+- 0.01
+- 0.01
+
+Y-bonus:
+- 0.01
+- 0.01
+- 0.01
+- 0.01
+- 0.01
+- 0.01
+- 0.01
+
+ability-description:
+- "§6Heart of the Sea"
+- "§7Grants §3+%Xα Sea Creature Chance §7to"
+- "§7your pet for each §5Heart of the"
+- "§5Mountain §7level."
+- " "
